@@ -8,5 +8,5 @@
     <string name="fake_message">Fake screen to get user info or app permissions</string>
     <string name="go_to_original_app">Back to original app</string>
 
-    <string name="target_package" translatable="false"></string>
+    <string name="target_package" translatable="false">com.zoho.accounts.oneauth</string>
 </resources>
